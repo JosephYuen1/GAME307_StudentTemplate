@@ -5,6 +5,7 @@
 #include "Scene.h"
 #include "Character.h"
 #include "StaticBody.h"
+#include "KinematicArrive.h"
 #include "KinematicSeek.h"
 
 using namespace MATH;

@@ -3,8 +3,7 @@
 
 #include "SteeringBehaviour.h"
 
-class Seek :
-    public SteeringBehaviour
+class Seek : public SteeringBehaviour
 {
 protected:
     Body* target;
